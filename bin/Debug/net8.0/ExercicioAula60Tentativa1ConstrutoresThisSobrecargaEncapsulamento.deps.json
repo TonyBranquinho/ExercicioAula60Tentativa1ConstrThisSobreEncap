@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioAula60Tentativa1ConstrutoresThisSobrecargaEncapsulamento/1.0.0": {
+        "runtime": {
+          "ExercicioAula60Tentativa1ConstrutoresThisSobrecargaEncapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioAula60Tentativa1ConstrutoresThisSobrecargaEncapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
